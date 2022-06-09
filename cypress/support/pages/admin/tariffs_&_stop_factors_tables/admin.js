@@ -2,6 +2,7 @@
 /// <reference types="Cypress" />
 
 //проба
+//проба 2
 import LeftMenu from "../../../locators/admin_locators/left_menu_locators"
 import TariffsTableLocators from "../../../locators/admin_locators/banks_menu_item_locators/tariffsTable_locators"
 import BanksList from "../../../locators/admin_locators/banks_menu_item_locators/banksList_locators"
